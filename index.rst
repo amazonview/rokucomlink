@@ -10,7 +10,7 @@ How to Activate or Link Your Roku Streaming Device Using roku.com/link
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_3.png
    :width: 350px
    :align: center
    :height: 100px
