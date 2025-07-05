@@ -1,5 +1,5 @@
 ##################
-How to Activate or Link Your Roku Streaming Device Using roku.com/link
+How to Set Up and Link Your Roku Device via Roku.com/Link
 ##################
 
 .. meta::
